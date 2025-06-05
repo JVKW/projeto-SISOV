@@ -75,4 +75,3 @@ let lastScrollTop = 0;
 
         lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
     });
-
